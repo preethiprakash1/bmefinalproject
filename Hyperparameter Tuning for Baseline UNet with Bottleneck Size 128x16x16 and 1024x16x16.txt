@@ -1,0 +1,73 @@
+﻿Baseline UNet with Bottleneck Size 1024x16x16
+Batch size:  12
+Learning rate:  0.0001
+Average validation DICE score:  0.712756711141002
+-
+Batch size:  12
+Learning rate:  0.001
+Average validation DICE score:  0.6878350576385855
+-
+Batch size:  16
+Learning rate:  0.01
+Average validation DICE score:  0.6146969564259053
+-
+Batch size:  16
+Learning rate:  0.001
+Average validation DICE score:  0.6633143114609024
+-
+Batch size:  16
+Learning rate:  0.0001
+Average validation DICE score:  0.6875444384708919
+-
+Batch size:  8
+Learning rate:  0.0001
+Average validation DICE score:  0.7381245261441642
+-
+Batch size:  8
+Learning rate:  0.001
+Average validation DICE score:  0.7171310274178783
+-
+Batch size:  8
+Learning rate:  0.01
+Average validation DICE score:  0.6818557265525064
+
+
+
+
+Baseline UNet with Bottleneck Size 128x16x16
+Batch size:  8
+Learning rate:  0.001
+Average validation DICE score:  0.6982794147239824
+-
+Batch size:  8
+Learning rate:  0.01
+Average validation DICE score:  0.6878064121554296
+-
+Batch size:  8
+Learning rate:  0.0001
+Average validation DICE score:  0.5234890895088513
+-
+Batch size:  16
+Learning rate:  0.0001
+Average validation DICE score:  0.3931760535262027
+-
+Batch size:  16
+Learning rate:  0.001
+Average validation DICE score:  0.6004423235029606
+-
+Batch size:  16
+Learning rate:  0.01
+Average validation DICE score:  0.5755441182260983
+-
+Batch size:  12
+Learning rate:  0.001
+Average validation DICE score:  0.6715589494117763
+-
+Batch size:  12
+Learning rate:  0.0001
+Average validation DICE score:  0.40140925088897345
+-
+Batch size:  12
+Learning rate:  0.01
+Average validation DICE score:  0.6574757255800068
+Baseline unet
